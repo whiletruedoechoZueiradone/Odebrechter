@@ -1,4 +1,4 @@
-Odebrechter
+Chrome Extension "Odebrechter"
 ==================
 ![caranguejo](https://github.com/whiletruedoechoZueiradone/Odebrechter/raw/master/caranguejo.PNG)
 
