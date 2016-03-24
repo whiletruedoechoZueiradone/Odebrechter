@@ -1,6 +1,6 @@
 Chrome Extension "Odebrechter"
 ==================
-![caranguejo](https://github.com/whiletruedoechoZueiradone/Odebrechter/raw/master/caranguejo.PNG)
+
 
 ## Intro
 
@@ -9,6 +9,7 @@ Diretamente do "Setor de Operações Estruturadas" vem ai uma extensão para o G
 
 A Extensão "substitui" todas as citações dos nomes de politicos listados nas listas divulgadas pela imprensa por seus codinomes
 
+![caranguejo](https://github.com/whiletruedoechoZueiradone/Odebrechter/raw/master/caranguejo.PNG)
 ![lindinho](https://github.com/whiletruedoechoZueiradone/Odebrechter/raw/master/lindinho.PNG)
 
 
