@@ -9,6 +9,8 @@ Diretamente do "Setor de Operações Estruturadas" vem ai uma extensão para o G
 
 A Extensão "substitui" todas as citações de nomes de politicos por seus codinomes segundo listados nas "listas de doações da odebrecht"  (divulgadas durante a operação lava jato)
 
+O usuário também pode adicionar novos codinomes (diretamente nas configurações) 
+
 ![caranguejo](https://github.com/whiletruedoechoZueiradone/Odebrechter/raw/master/caranguejo.PNG)
 ![lindinho](https://github.com/whiletruedoechoZueiradone/Odebrechter/raw/master/lindinho.PNG)
 
