@@ -7,7 +7,7 @@ Chrome Extension "Odebrechter"
 Cansado de ler sobre o apocalip...digo... noticiário político ultimamente? 
 Diretamente do "Setor de Operações Estruturadas" vem ai uma extensão para o Google Chrome que vai faze-lo sorrir até o próximo escândalo...ou pelos próximos 15 min (whichever comes first)...
 
-A Extensão "substitui" todas as citações dos nomes de politicos listados nas listas divulgadas pela imprensa por seus codinomes
+A Extensão "substitui" todas as citações de nomes de politicos por seus codinomes segundo listados nas "listas de doações da odebrecht"  (divulgadas durante a operação lava jato)
 
 ![caranguejo](https://github.com/whiletruedoechoZueiradone/Odebrechter/raw/master/caranguejo.PNG)
 ![lindinho](https://github.com/whiletruedoechoZueiradone/Odebrechter/raw/master/lindinho.PNG)
