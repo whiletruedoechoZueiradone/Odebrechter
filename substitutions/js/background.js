@@ -46,6 +46,7 @@ var default_replacements = [
   ['Paulo Garcia', 'Pastor'],
   ['Lindberg Farias', 'Lindinho'],
   ['Lindbergh Farias', 'Lindinho'],
+  
   //http://www1.folha.uol.com.br/poder/2016/03/1753226-pf-acha-planilha-de-pagamentos-da-odebrecht-para-politicos.shtml
   ['Jaques Wagner', 'Passivo'],
   ['Cid Gomes', 'Falso'],
@@ -54,7 +55,17 @@ var default_replacements = [
   ['Raimundo Colombo', 'Ovo'],
   ['Manuela d\'Ávila', 'Avião'],
   ['Cunha', 'Caranguejo'],
-  ['Sebastião Almeida', 'Sumido']
+  ['Sebastião Almeida', 'Sumido'],
+  
+  //http://www1.folha.uol.com.br/poder/2016/03/1753316-nervosinho-dracula-lindinho-e-aviao-os-apelidos-na-planilha-da-odebrecht.shtml
+  ['Sérgio Cabral', 'Proximus'],
+  
+  //http://g1.globo.com/pr/parana/noticia/2016/02/agenda-de-secretaria-presa-liga-o-apelido-de-feira-monica-diz-moro.html
+  ['Monica Moura', 'Feira'],
+  
+  //http://zh.clicrbs.com.br/rs/noticias/noticia/2016/03/veja-os-apelidos-atribuidos-a-alguns-politicos-na-planilha-da-odebrecht-apreendida-pela-pf-5231001.html
+  ['José Fortunati', 'Rico'],
+  ['Arthur Maia', 'Tuca']
 ];
 //Default Blacklist
 var default_blacklisted_sites = [
