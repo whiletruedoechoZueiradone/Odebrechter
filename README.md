@@ -13,7 +13,11 @@ Fontes:
 
 by whiletruedoechoZueiradone
 
+Por enquanto para instalar siga os seguintes passos:
 
+Baixe o arquivo : https://github.com/whiletruedoechoZueiradone/Odebrechter/raw/master/odebrechter.crx
+
+Instale arrastando para a lista de extensões , conforme é mostrado , por exemplo , em http://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/
 
 FAQ:
 
